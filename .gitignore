@@ -1,0 +1,27 @@
+#Build output
+out/
+_build/
+Output/
+[Bb]uild/
+
+#Visual Studio
+.vs/
+obj/
+
+#Nordic
+*.jlink
+*.emSession
+
+#STM32Cube
+*.settings
+[Dd]ebug/
+[Rr]elease/
+
+# Python Byte-compiled files
+*__pycache__/
+
+# Distribution / packaging
+dist/
+wheels/
+*.egg-info/
+*.egg
